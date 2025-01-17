@@ -7,4 +7,4 @@ Make your changes here
 ---
 
 
-Changes made by Krum Yakimov-Conflict
+Changes made by Krum Yakimov
